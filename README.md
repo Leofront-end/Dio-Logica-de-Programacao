@@ -7,9 +7,9 @@
 *const* - valor imultavel 
 
 ### Tipos de Variavel
-*string* - Texto
-*number* - Número
-*booleano* - Verdadeiro/Falso
+- *string* - Texto
+- *number* - Número
+- *booleano* - Verdadeiro/Falso
 
 ## Matriz e Vetor
 Coloca varios dados dentro de um "armario"
